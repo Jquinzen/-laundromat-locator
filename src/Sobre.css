@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    font-family: "Roboto", serif;
+  }
+  
+  .who-we-are {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #007BFF;
+    margin-bottom: 10px;
+  }
+  
+  .section-description {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    text-align: center;
+    position: relative;
+    
+  }
+  .card:hover{
+    transform: scale(1.05);
+  }
+  
+  .card-icon {
+    font-size: 40px;
+    color: #ff0000;
+    margin-bottom: 15px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 14px;
+    color: #666;
+  }
+  .h3 {
+    font-size: 14px;
+    color: #666;
+  }
+
+  .footer {
+    margin-top: 70px; 
+    background-color: #fff; 
+    padding: 20px;
+    text-align: center;
+    color: #666;
+  }
+  
+  @media (max-width: 768px) {
+    .cards-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  

@@ -1,0 +1,54 @@
+.cartao-lavanderia {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden; 
+}
+.cartao-lavanderia:hover {
+    transform: translateY(-10px); /* Move o card para cima */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Adiciona sombra */
+  }
+
+.cartao-lavanderia-imagem img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.cartao-lavanderia-info {
+    padding-left: 15px;
+    flex-grow: 1;
+}
+
+.cartao-lavanderia-titulo {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.cartao-lavanderia-texto {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.cartao-lavanderia-botao {
+    margin-top: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.cartao-lavanderia-botao:hover {
+    background-color: #0056b3;
+}

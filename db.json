@@ -1,0 +1,265 @@
+{
+  "lavanderias": [
+    {
+      "id": "1",
+      "nomeFantasia": "lavuppelotas",
+      "razaoSocial": "lavuppelotas",
+      "endereco": "R. Gonçalves Chaves, 3148 - Centro, Pelotas - RS",
+      "imagemFachada": "https://lavup.com.br/wp-content/uploads/2024/09/Pelotas-1.jpeg",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3391.909617829483!2d-52.34473592437832!3d-31.77295097409943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDQ2JzIyLjYiUyA1MsKwMjAnMzEuOCJX!5e0!3m2!1spt-BR!2sbr!4v1733107598664!5m2!1spt-BR!2sbr",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 8,
+        "fechamento": 21
+      },
+      "telefone": "53999999999",
+      "comentarios": [
+        "Roupas bem cheirosas😍 …"
+      ],
+      "notas": [
+        5
+      ],
+      "nomes": [
+        "Janete "
+      ]
+    },
+    {
+      "id": "2",
+      "nomeFantasia": "Lava aky lavanderia",
+      "razaoSocial": "Lava aky lavanderia",
+      "endereco": "Rua Andrade Neves, 3061, Pelotas, Brazi",
+      "imagemFachada": "https://lh5.googleusercontent.com/p/AF1QipM6myAsVyllZBRt3o1JmWrXitHE1pZvU9GABw6a=w231-h385-n-k-no-nu",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.485518075728!2d-52.34051702349731!3d-31.757241212813433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b50026d72ab5%3A0x4038efbc49c08a6c!2sLava%20aky%20lavanderia!5e0!3m2!1spt-BR!2sbr!4v1733107685764!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 99122-2096",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 7,
+        "fechamento": 22
+      },
+      "comentarios": [
+        "Ótima opção para lavar a sua roupa, lugar excelente.... A roupa fica limpa e muito cheirosa",
+        "Roupas muito cheirosa, processo leva em torno de 1 hora (lavar e secar), ameii!",
+        "muito boa"
+      ],
+      "notas": [
+        5,
+        5,
+        4
+      ],
+      "nomes": [
+        "Leandro",
+        "Karoline",
+        "juan"
+      ]
+    },
+    {
+      "id": "3",
+      "nomeFantasia": "BAH Lavanderia",
+      "telefone": "(53) 999790293",
+      "endereco": "Rua Santa Cruz, 2211",
+      "imagemFachada": "https://lh5.googleusercontent.com/p/AF1QipM5201jEHdgxGQkDrIzFuYOIeTAHmO0Fxwv0cqq=w231-h385-n-k-no-nu",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.095148517231!2d-52.339894723497224!3d-31.767890713333415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b50024bf6d2f%3A0x9d3a96910f6d2cc6!2sBAH%20Lavanderia!5e0!3m2!1spt-BR!2sbr!4v1733192587054!5m2!1spt-BR!2sbr",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 8,
+        "fechamento": 23
+      },
+      "comentarios": [
+        "Ótimo custo, e central.",
+        "Melhor lavanderia de pelotas, bem localizada, preço justo"
+      ],
+      "notas": [
+        5,
+        5
+      ],
+      "nomes": [
+        "Sharon",
+        "Rafael "
+      ]
+    },
+    {
+      "id": "4",
+      "nomeFantasia": "LAVANDERIA AQUAMAGIC",
+      "telefone": "(53) 999101588",
+      "endereco": "Praça Cap. Nestor Corbiniano de Andrade, 123 A - Centro, Pelotas - RS",
+      "imagemFachada": "https://lh5.googleusercontent.com/p/AF1QipNnYyTR626VUEdn2x1Knnj4TB3geQaM2D9XCdTV=w231-h289-n-k-no-nu",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.7408892844974!2d-52.34282852349766!3d-31.750272812473163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b58a047aa783%3A0x9af4c13713e73910!2sLAVANDERIA%20AQUAMAGIC%20PELOTAS!5e0!3m2!1spt-BR!2sbr!4v1733192699939!5m2!1spt-BR!2sbr",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 12,
+        "fechamento": 24
+      },
+      "comentarios": [
+        "Muito top!! lugar confortável de fácil manuseio e a roupa sai cheirosa. Indico muito.",
+        "Ambiente ótimo as roupas saem muito cheirosas sempre vou e recomendo"
+      ],
+      "notas": [
+        5,
+        5
+      ],
+      "nomes": [
+        "Arthur ",
+        "Sabrina "
+      ]
+    },
+    {
+      "id": "5",
+      "nomeFantasia": "OMO Lavanderia Self-Service",
+      "telefone": "(53) 991111471",
+      "endereco": "R. Antônio dos Anjos, 685 - Centro, Pelotas - RS",
+      "imagemFachada": "https://lh5.googleusercontent.com/p/AF1QipN1scPWj7xvveh5oRSb16TfNhrTNsif5XK5LvFP=w296-h168-n-k-no",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.543197568665!2d-52.34090152349747!3d-31.755667412736422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b5619cff400d%3A0x3736820cc6d5fe2e!2sOMO%20Lavanderia%20Self-Service%20Pelotas!5e0!3m2!1spt-BR!2sbr!4v1733192976631!5m2!1spt-BR!2sbr",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 6,
+        "fechamento": 23
+      },
+      "comentarios": [
+        "Máquinas novas, ambiente climatizado, com tomadas para carregar os telefone e tem wi-fi acessado pelo QR-Code.",
+        "muito bom! ambiente super agradável, roupas cheirosas"
+      ],
+      "notas": [
+        5,
+        5
+      ],
+      "nomes": [
+        "Barbara",
+        "Alice "
+      ]
+    },
+    {
+      "id": "1072",
+      "nomeFantasia": "lavanderiaprontolavei",
+      "telefone": "(53) 991514327",
+      "endereco": "Gonçalves Chaves 1119- Pelotas (Posto Azeredo)",
+      "imagemFachada": "https://lh3.googleusercontent.com/p/AF1QipOazirrACXjyy6vP3W9BS7P7-PTCOSgIBJLxxCm=s680-w680-h510",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.3194984140514!2d-52.338307223497225!3d-31.76177071303457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b53013b075bf%3A0x6afc1d17d8c58cb6!2sLavanderia%20Pronto%20Lavei!5e0!3m2!1spt-BR!2sbr!4v1733193604050!5m2!1spt-BR!2sbr",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 7,
+        "fechamento": 23
+      },
+      "comentarios": [
+        "A melhor opção da cidade, facilidade de uso aliado ao preço baixo. Ambiente climatizado e smart tv que torna a espera mais agradável. Recomendo!",
+        "Ótimo lugar, excelente localização e bem simples de usar as máquinas!!"
+      ],
+      "notas": [
+        5,
+        5
+      ],
+      "nomes": [
+        "Vinicius ",
+        "Ricardo"
+      ]
+    },
+    {
+      "id": "1923",
+      "nomeFantasia": "Bello Aroma Lavanderia",
+      "razaoSocial": "Bello Aroma Lavanderia",
+      "endereco": "Avenida Juscelino Kubitschek de Oliveira 4615 Container 115 ",
+      "imagemFachada": "https://lh3.googleusercontent.com/p/AF1QipOLs9clzRBAYs6gHjhaAppDi0sjfwUWwXi81nYu=s680-w680-h510",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.9876818102607!2d-52.3293373!3d-31.7435372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b5a2d7cbf523%3A0x6b3b646edb83d9dc!2sBello%20Aroma%20Lavanderia!5e0!3m2!1spt-BR!2sbr!4v1733108261936!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 981125610",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 8,
+        "fechamento": 23
+      },
+      "comentarios": [
+        "Minha roupas ficaram muito cheirosas!! Voltarei com certeza!"
+      ],
+      "notas": [
+        5
+      ],
+      "nomes": [
+        "Pedro João "
+      ]
+    },
+    {
+      "id": "90e6",
+      "nomeFantasia": "LEV & TOK LAVANDERIA",
+      "razaoSocial": "LEV & TOK LAVANDERIA",
+      "endereco": "R. Alm. Barroso, 1961 - Sala 1 - Centro, Pelotas - RS",
+      "imagemFachada": "https://lh5.googleusercontent.com/p/AF1QipMdsv4l4Moa_tEldef_0smoKivJnCENewspWM9M=w447-h298-k-no",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27140.31855146532!2d-52.357110347263166!3d-31.755759601616962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b535108abfb3%3A0xc7b947c20f5c7bb7!2sLEV%20%26%20TOK%20LAVANDERIA!5e0!3m2!1spt-BR!2sbr!4v1733108387166!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 33055458",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 8,
+        "fechamento": 19
+      },
+      "comentarios": [
+        "excelente atendimento."
+      ],
+      "notas": [
+        5
+      ],
+      "nomes": [
+        "Rafael "
+      ]
+    },
+    {
+      "id": "9d51",
+      "nomeFantasia": "LaVou",
+      "razaoSocial": "LaVou",
+      "endereco": "Localização Falhou ",
+      "imagemFachada": "https://www.girbau.com/hubfs/Imported_Blog_Media/23_lavadoras-secadoras-maquinaria-lavanderia-autoservicio-Nov-08-2022-05-11-21-2621-PM.png",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.013522476968!2d-52.341433623496826!3d-31.770117113442193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b5be08c39731%3A0x644b62f2bc9bddd5!2sUniSenac%20-%20Campus%20Pelotas!5e0!3m2!1spt-BR!2sbr!4v1733194545626!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 9157-0801",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 7,
+        "fechamento": 23
+      },
+      "comentarios": [
+        "Roupas cheirosas, porém demorou muito para liberar as maquinas.",
+        "Lavanderia show de bola, minhas cuecas ficaram cheirosas. "
+      ],
+      "notas": [
+        3,
+        5
+      ],
+      "nomes": [
+        "Juan",
+        "Guilherme"
+      ]
+    },
+    {
+      "id": "7789",
+      "nomeFantasia": "Lavatudo",
+      "razaoSocial": "Lavatudo",
+      "endereco": "Localização Falhou ",
+      "imagemFachada": "data:image/jpeg;base64,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",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.013522476968!2d-52.341433623496826!3d-31.770117113442193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9511b5be08c39731%3A0x644b62f2bc9bddd5!2sUniSenac%20-%20Campus%20Pelotas!5e0!3m2!1spt-BR!2sbr!4v1733195072622!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 8113-1959",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 8,
+        "fechamento": 19
+      },
+      "comentarios": [
+        "Todas as maquinas ocupadas, demorou muito para lavar minhas roupas."
+      ],
+      "notas": [
+        3
+      ],
+      "nomes": [
+        "Thiago"
+      ]
+    },
+    {
+      "id": "3db1",
+      "nomeFantasia": "lavanderia dos guri",
+      "razaoSocial": "lavanderia dos guri",
+      "endereco": "rua lobo da costa 244",
+      "imagemFachada": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fbr%2Fsearch%2Fimages%3Fk%3Dpika&psig=AOvVaw1bKUZRnHKpgoyMiB2iSl_2&ust=1736986858116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDR9re69ooDFQAAAAAdAAAAABAE",
+      "mapa": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d11409.807456221199!2d-52.33988871670745!3d-31.766229444335927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1slavanderias!5e0!3m2!1spt-BR!2sbr!4v1732724562805!5m2!1spt-BR!2sbr",
+      "telefone": "(53) 3225-5995",
+      "avaliacao": 0,
+      "horarioFuncionamento": {
+        "abertura": 11,
+        "fechamento": 16
+      }
+    }
+  ]
+}

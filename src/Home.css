@@ -1,0 +1,167 @@
+
+
+
+.home {
+    padding: 25px;
+    
+    font-weight: 100;
+    font-style: normal;
+    max-width: 2000px;
+    margin: auto;
+}
+.ubtitulo{
+    font-family: "Manrope", sans-serif;
+}
+
+.home-secao {
+    margin-bottom: 40px;
+    font-family: "Roboto", serif;
+}
+
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-family: "Roboto", serif;
+}
+
+.destaque {
+    color: #007bff;
+}
+
+p {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.home-botao {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.home-botao:hover {
+    background-color: #0056b3;
+}
+
+.home-conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.home-texto {
+    flex: 1;
+    text-align: left;
+}
+
+.home-mapa {
+    flex: 1;
+    max-width: 600px;
+    height: 300px;
+}
+
+.home-mapa iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border: 0;
+}
+
+.lavanderia-grade {
+    display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 20px;
+  row-gap: 12px;
+  padding: 10px;
+}
+
+
+.home-saber-mais {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+margin-left: 55rem;
+}
+
+
+.destaque-azul-claro {
+   color: #4E97E0;
+   
+}
+
+.home-saber-mais:hover {
+    background-color: #0056b3;
+}
+
+.card:hover{
+    transform: scale(1.05);
+  }
+
+footer {
+    margin-top: 40px; 
+    margin-bottom: 20px; 
+}
+
+@media (max-width: 768px) {
+    .home-conteudo {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .home-texto {
+        text-align: center;
+    }
+
+    .lavanderia-grade {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .home-botao {
+        font-size: 14px;
+        padding: 10px 15px;
+        margin: auto;
+    }
+    .home-saber-mais {
+        margin-left: 0px;
+        margin-left: 115px;
+    }
+    
+}
+@media (min-width: 1024px) {
+    p {
+        margin-left: 220px;
+    }
+    .home-botao {
+        margin-left: 430px;
+}
+.home-saber-mais {
+    margin-left: 55rem;
+}
+ }
+
+
+ 

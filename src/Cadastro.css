@@ -1,0 +1,207 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+ 
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garante que o body ocupe toda a altura da tela */
+}
+
+/* Contêiner principal */
+.cadastro-container {
+  display: flex;
+  flex: 1;
+  flex-direction: row; /* Layout horizontal padrão */
+}
+
+/* Seção de login */
+.login-section {
+  flex: 1;
+  background-color: #e8effc;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  height: 510px;
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente */
+  
+  
+}
+
+.logo img {
+  width: 150px;
+  margin-bottom: 20px;
+  margin-left: 27px;
+}
+
+.login-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.login-section p {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.entrar-btn {
+  background-color: #e8effc;
+  border: 1px solid #333;
+  border-radius: 25px;
+  padding: 10px 30px;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.entrar-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.esqueci-senha {
+  font-size: 14px;
+  color: #666;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.esqueci-senha:hover {
+  color: #000;
+}
+
+/* Seção de cadastro */
+.cadastro-section {
+  flex: 1;
+ 
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin-bottom:20px;
+}
+
+.cadastro-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.cadastro-section p {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.cadastro-form {
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 0px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #f9f9f9;
+}
+
+.form-group input:focus {
+  border-color: #333;
+  outline: none;
+}
+
+.cadastrar-btn {
+  background-color: #e8effc;
+  border: 1px solid #333;
+  border-radius: 25px;
+  padding: 10px 30px;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0 auto; 
+  display: block; 
+}
+
+.cadastrar-btn:hover {
+  background-color: #d9e7ff;
+}
+
+.p {
+  color: #1D3557;
+}
+
+.footer {
+  color: #333;
+  text-align: center;
+  padding: 0px;
+  margin-top: auto; 
+  font-size: 14px;
+}
+
+
+
+@media (max-width: 768px) {
+  .cadastro-container {
+    flex-direction: column; 
+    align-items: center;
+  }
+
+  .login-section,
+  .cadastro-section {
+    flex: none;
+    width: 100%; 
+    padding: 20px;
+  }
+
+  .logo img {
+    width: 120px; 
+    margin: 0 auto; /* Centraliza horizontalmente */
+    display: block; /* Garante que o elemento respeite o margin */
+    margin-right:10px;
+  }
+
+  .login-section h2,
+  .cadastro-section h2 {
+    font-size: 20px; 
+  }
+
+  .login-section p,
+  .cadastro-section p {
+    font-size: 14px; 
+  }
+
+  .entrar-btn,
+  .cadastrar-btn {
+    width: 100%; 
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .form-group input {
+    font-size: 14px; 
+    padding: 8px;
+  }
+
+  .footer {
+    padding: 10px;
+  }
+}
