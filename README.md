@@ -33,7 +33,9 @@ npm install
 3. **Inicie o servidor de desenvolvimento**
 
 ```bash
-npm start
+npm run dev
+
+ o + enter
 ```
 
 4. **Acesse o aplicativo**
