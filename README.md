@@ -1,47 +1,51 @@
-Laundromat Locator
-Projeto desenvolvido por Jquinzen utilizando React. O objetivo é registrar lavanderias com mapas, informações e permitir a adição de novos dados.​
+# 🧼 Laundromat Locator
 
-Funcionalidades
-Visualização de lavanderias em um mapa interativo.
+Projeto desenvolvido por **Jquinzen** utilizando **React**. O objetivo é registrar lavanderias com localização em mapa interativo, fornecer informações detalhadas e permitir a adição de novos dados ao sistema.
 
-Informações detalhadas sobre cada lavanderia.
+## ✨ Funcionalidades
 
-Adição de novas lavanderias ao sistema.​
+- Visualização de lavanderias em um mapa interativo  
+- Informações detalhadas sobre cada lavanderia  
+- Adição de novas lavanderias ao sistema
 
-Tecnologias Utilizadas
-React
+## 🛠️ Tecnologias Utilizadas
 
-JavaScript
+- **React**
+- **JavaScript**
+- **CSS**
+- **HTML**
+- **db.json** (para simulação de banco de dados com [JSON Server](https://github.com/typicode/json-server))
 
-CSS
+## 🚀 Como Executar o Projeto
 
-HTML
+1. **Clone o repositório**
 
-db.json para simulação de banco de dados.​
-
-Como Executar o Projeto
-Clone o repositório:​
-
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/Jquinzen/-laundromat-locator.git
-Instale as dependências:​
+```
 
-bash
-Copiar
-Editar
+2. **Instale as dependências**
+
+```bash
 npm install
-Inicie o servidor de desenvolvimento:​
+```
 
-bash
-Copiar
-Editar
+3. **Inicie o servidor de desenvolvimento**
+
+```bash
 npm start
-Acesse o aplicativo em http://localhost:3000.​
+```
 
-Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.​
+4. **Acesse o aplicativo**
 
-Licença
-Este projeto está licenciado sob a Licença MIT.
+Abra no navegador: [http://localhost:3000](http://localhost:3000)
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas!  
+Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
